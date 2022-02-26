@@ -1,5 +1,5 @@
-<h1 align="center">Revou Python Simulation</h1>
+<h1 align="center">Revou Data Analytics</h1>
 
-<p align="justify">
-  Repositori ini berisi tentang hasil simulasi pembelajaran saya menggunakan Python untuk Data Analytic dari Revou.
+<p align="center">
+  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti mini course Data Analytic dari Revou.
 </p>
