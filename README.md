@@ -11,5 +11,5 @@
 <details><summary>Sertifikat Revou</summary>
  
 <p align="center">
-  <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/photo.png"></a>
+  <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/Sertifikat.png"></a>
 </p> 
