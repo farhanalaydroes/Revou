@@ -5,7 +5,7 @@
 <h1 align="center">Revou Data Analytics</h1>
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti mini course Data Analytic dari Revou.
+  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti <strong>Mini Course Data Analytic</strong> dari <strong>Revou</strong>.
 </p>
 
 <details><summary>Certificate of Completion</summary>
