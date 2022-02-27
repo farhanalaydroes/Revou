@@ -8,7 +8,7 @@
   Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti mini course Data Analytic dari Revou.
 </p>
 
-<details><summary>Sertifikat Revou</summary>
+<details><summary>Certificate of Completion</summary>
  
 <p align="center">
   <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/Sertifikat.png"></a>
