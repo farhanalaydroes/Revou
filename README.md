@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <a href='https://www.revou.co/'><img src="Revou/revou.png"></a>
-</p>
+</p> -->
 
 <h1 align="center">Revou Data Analytics</h1>
 
