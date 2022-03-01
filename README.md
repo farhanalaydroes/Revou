@@ -8,6 +8,10 @@
   Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti <strong>Mini Course Data Analytic</strong> dari <strong>Revou</strong>.
 </p>
 
+<p align="justify">
+  Source Data : Revou
+</p>
+
 <details><summary>Certificate of Completion</summary>
  
 <p align="center">
