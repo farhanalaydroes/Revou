@@ -9,8 +9,20 @@
 </p>
 
 <p align="justify">
-  Source Data : Revou
+  Source Data : <strong>Revou</strong>
 </p>
+
+
+<p align="justify">
+  Editor :
+</p>
+  <a href="https://jupyter.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  
+<p align="justify">
+  Languages :
+</p>
+  <a href="https://www.python.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+
 
 <details><summary>Certificate of Completion</summary>
  
