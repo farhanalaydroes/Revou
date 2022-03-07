@@ -24,6 +24,15 @@
 </p>
   <a href="https://www.python.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 
+<details><summary>Table of Contains</summary>
+ 
+
+  
+  <a>⚫️[ Revou Python Simulation](https://github.com/farhanalaydroes/Revou/blob/main/Revou_Python_Simulation.ipynb) </a> 
+  
+  
+
+ </details>
 
 <details><summary>Certificate of Completion</summary>
  
